@@ -1,8 +1,8 @@
 """
 Hannah McGoran
 02/25/2023
-1. Substitutes incorrect concentration standard deviation data in 02/23/2023
-with correct data through indexing by sample ID
+1. Substitutes incorrect concentration data in 02/23/2023
+with correct data by indexing with sample ID
 2. Calculates potential density using GSW and adds it on to the isotope dataframe
 3. Merges updated 02/23/2023 isotope+density data with master sheet data (331 samples to 329 samples)
 4. Merges all of the aforementioned data with water mass percentages (329 samples to 272 samples)
